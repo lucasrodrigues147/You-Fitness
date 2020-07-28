@@ -35,7 +35,7 @@ global $DB;
 const HOST      = 'localhost';       // SQL server
 const DBNAME    = 'youfitness';      // database name
 const USER      = 'root';            // username
-const PASS      = 'joao123456789';   // password
+const PASS      = '';   // password
 const CHARSET   = 'utf8';            // define o charset da base de dados
 
 try {
